@@ -5,4 +5,5 @@ La importancia del estudio del control estadístico de procesos radica en que pe
 
 ## Diafragma X-BAR
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/19ad8669-7af3-4a17-a811-fa8d2d3370b0" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/46385bc0-71ba-4ddf-9735-742fa30a660d" />
+
