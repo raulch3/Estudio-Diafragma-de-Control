@@ -7,3 +7,5 @@ La importancia del estudio del control estadístico de procesos radica en que pe
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/46385bc0-71ba-4ddf-9735-742fa30a660d" />
 
+## Otros estudios...
+
